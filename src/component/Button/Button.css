@@ -1,0 +1,9 @@
+.btn{
+    background-color: bisque;
+    color:black;
+    padding: 5px 30px;
+    margin: 5px 10px;
+    border-radius: 30px;
+    border: none;
+    box-shadow: 0 0 10px black;
+}
